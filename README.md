@@ -1,4 +1,4 @@
-# Case - Preparando um dataset para o cálculo de indicadores RFM de uma empresa de e-commerce
+# Case - Preparando um dataset para o cálculo de indicadores RFM em uma empresa de e-commerce
 
 ## Introdução
 
