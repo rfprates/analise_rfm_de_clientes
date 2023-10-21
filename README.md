@@ -70,7 +70,7 @@ Obs: para executar o código corretamente as bibliotecas listadas na sessão ant
 
 ### RFM
 
-Segue abaixo um resumo da tabela com os resultados de cada um dos indicadores RFM por CustomerID. Para acessar a tabela completa, basta baixar o arquivo "customer_rfm.csv" que se encontra na lista de items deste repositório.
+Segue abaixo um resumo da tabela com os resultados de cada um dos indicadores RFM por CustomerID. Para acessar a tabela completa, basta baixar o arquivo "customer_rfm.csv" que se encontra na lista de arquivos deste repositório.
 <br>
 <div>
 <table border="1" class="dataframe">
