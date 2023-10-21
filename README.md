@@ -35,12 +35,13 @@ A tabela contém informações de compras de um e-commerce em 37 países. Conté
 ## Bibliotecas utilizadas no desenvolvimento do projeto
 
 Segue uma lista com as bibliotecas utilizadas no desenvolvimento e resolução deste case
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Missingno
-- Sklearn
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- missingno
+- sklearn
 
 ## Deployment
 
